@@ -1,0 +1,14 @@
+{
+    "name": "jmgoncalves97/php-benchmark",
+    "version": "0.1.0",
+    "description": "Mini CMS for benchmarking",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "helper.php"
+        ]
+    },
+    "require": {}
+}
